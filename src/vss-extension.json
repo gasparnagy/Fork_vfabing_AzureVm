@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "id": "AzureVirtualMachineManagerTask-private",
   "name": "Azure Virtual Machine Manager Task",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "SpecSolutions",
   "targets": [
     {
