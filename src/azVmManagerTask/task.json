@@ -85,6 +85,9 @@
     "execution": {
         "Node": {
             "target": "azurevmmanager.js"
+        },
+        "Node20_1": {
+            "target": "azurevmmanager.js"
         }
     }
 }
