@@ -67,7 +67,7 @@ async function run() {
         }
 
     }
-    catch (err) {
+    catch (err: any) {
         tl.setResult(tl.TaskResult.Failed, err.message);
     }
 }
